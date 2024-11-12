@@ -1,7 +1,7 @@
 # NissanGTRModel
 ![image](https://github.com/user-attachments/assets/9137c65b-ae66-4106-a651-602ec0232b8d)
 
-This repository contains a 3D model of a Nissan Skyline GT-R R34 created in Blender 4.0. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
+This repository contains a 3D model of a Nissan Skyline GT-R R34 created in Blender. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
 
 ## Files and Structure
 
